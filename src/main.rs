@@ -1,5 +1,6 @@
 mod engine;
 mod player;
+mod render;
 
 use engine::Engine;
 use pollster::block_on;
